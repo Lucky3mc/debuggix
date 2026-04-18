@@ -1,90 +1,103 @@
- # 🛡️ Debuggix - AI-Powered Code Security
+# 🛡️ Debuggix: Stop Searching for Bugs. Start Merging Fixes.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-Founders'%20Beta-purple?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/free-10%20scans%2Fmonth-blue?style=for-the-badge" alt="Free Tier">
-  <img src="https://img.shields.io/badge/AI-Powered-8b5cf6?style=for-the-badge" alt="AI Powered">
-  <img src="https://img.shields.io/badge/10%2B%20Scanners-green?style=for-the-badge" alt="Scanners">
+  <img src="https://img.shields.io/badge/Status-Founders'%20Beta-8b5cf6?style=for-the-badge&logo=rocket" alt="Status">
+  <img src="https://img.shields.io/badge/Security-Agentic%20AI-8b5cf6?style=for-the-badge&logo=ai" alt="AI">
+  <img src="https://img.shields.io/badge/Speed-Instant%20Fixes-fbbf24?style=for-the-badge&logo=lightning" alt="Speed">
 </p>
 
 <p align="center">
-  <b>Find vulnerabilities. Get AI fixes. Ship secure code.</b>
+  <b>Traditional scanners find problems. Debuggix deletes them.</b><br>
+  The world's first agentic security engine that writes the PR for you.
 </p>
 
 <p align="center">
-  <a href="https://debuggix.onrender.com"><strong>🚀 Try Debuggix Now →</strong></a>
+  <a href="https://debuggix.onrender.com"><strong>🚀 CLAIM YOUR FREE BETA ACCESS →</strong></a>
 </p>
 
 ---
 
-## 🤖 What is Debuggix?
+## 🛑 Why 90% of Security Scanners Fail You
+Most tools just give you a "To-Do" list of 500 vulnerabilities that you don't have time to fix. They create noise. **Debuggix creates solutions.**
 
-Debuggix is an **AI-powered security scanner** that analyzes your code for vulnerabilities, secrets, and security misconfigurations. Unlike traditional scanners that just tell you what's wrong, Debuggix **generates the fix** and shows you exactly how to implement it.
-
-### ✨ Why Developers Love Debuggix
-
-- 🔍 **10+ Security Scanners** - Semgrep, Bandit, Gitleaks, Trivy, ESLint, and more.
-- 🤖 **AI-Powered Fixes** - Get instant, context-aware fixes for every vulnerability.
-- 💬 **AI Copilot (Pro+)** - Chat with AI about your entire codebase.
-- 🔗 **GitHub Integration** - Scan public & private repos with one click.
-- 📊 **Security Dashboard** - Visualize your security posture at a glance.
-- 🛡️ **Privacy First** - Local-first processing architecture options available.
+### The Debuggix Workflow:
+1. **Detect:** We run 10+ industry-standard scanners (Semgrep, Gitleaks, Trivy) in parallel.
+2. **Analyze:** Our AI logic filters out false positives that waste your time.
+3. **Fix:** We generate **production-ready code patches** for every confirmed threat.
+4. **Verify:** Every fix is pre-audited by our internal security model before you see it.
 
 ---
 
-## 🚀 [Try Debuggix Now →](https://debuggix.onrender.com)
+## 🔥 Features That Feel Like Magic
 
-> **Founders' Beta Active:** Limited free access to Pro features for early adopters. No credit card required.
-
----
-
-## 🛠️ Supported Languages & Tools
-
-| Language | Tools |
-|----------|-------|
-| **Python** | Bandit, Semgrep |
-| **JS / TS** | ESLint, Semgrep |
-| **Go** | Semgrep, Gitleaks |
-| **Java** | Semgrep, Checkov |
-| **Secrets** | Gitleaks, TruffleHog |
-| **Infrastructure** | Checkov, Trivy |
+- 🧠 **Agentic Auto-Patching:** Don't just find an SQL injection; get the exact parameterized query fix in seconds.
+- 🔐 **Zero-Leak Guarantee:** Our scanners detect hardcoded secrets (API keys, DB creds) before they ever hit your production branch.
+- 💬 **Security Copilot (Pro+):** "How do I fix this logic flaw in my auth middleware?" Ask the Copilot, and watch it rewrite the function live.
+- 🕵️ **Ghost Mode (Privacy):** Built for the paranoid. Your source code is processed with zero-retention—we don't train on your IP.
 
 ---
 
-## 💰 Pricing
+## 🛠️ The Arsenal (Multi-Engine Intelligence)
 
-| Plan | Price | Features |
-|------|-------|----------|
-| **Free** | $0 | 10 public scans/month, basic findings |
-| **Pro** | $29/mo | 100 private scans/mo, unlimited AI fixes, API access |
-| **Pro+** | $50/mo | 500 scans/mo, AI Copilot, 3 team seats, Webhooks |
+We didn't reinvent the wheel; we built a nuclear reactor around it. Debuggix orchestrates the best tools in the world:
 
----
-
-## 📊 Roadmap
-
-- [x] Public beta launch
-- [x] AI-powered fix generation
-- [x] GitHub OAuth integration
-- [ ] VS Code extension (Coming Q2 2026)
-- [ ] Self-hosted enterprise version (Coming Q3 2026)
+| Engine | Protection Domain |
+| :--- | :--- |
+| **DeepSeek / Claude / GPT-4** | High-level reasoning & complex logic patching |
+| **Gitleaks / TruffleHog** | Deep secret scanning & credential protection |
+| **Semgrep / Bandit** | Static Analysis (SAST) for Python, JS, Go, and more |
+| **Trivy / Checkov** | Container & Infrastructure-as-Code (IaC) security |
 
 ---
 
-## 🤝 Feedback & Support
+## 💰 Founders' Beta Pricing (April 2026)
 
-Debuggix is currently in **Founders' Beta**. We are not accepting code contributions to this repository as the engine is proprietary, but we value your feedback!
+| Plan | Value | Access |
+| :--- | :--- | :--- |
+| **Free** | $0 | 10 Scans/mo. Perfect for side projects. |
+| **Pro** | **$29/mo** | 100 Private Scans + **Unlimited AI Fixes**. |
+| **Pro+** | **$50/mo** | 500 Scans + **AI Copilot** + Team Access. |
 
-- 🐛 [Report a bug](https://debuggix.onrender.com/contact)
-- ⭐ **Star this repo** to show support and help others discover Debuggix!
+**[Lock in Beta Pricing Forever →](https://debuggix.onrender.com/billing)**
 
 ---
 
-## 📄 License
-
-Debuggix is a commercial product. This repository is for informational and funnel purposes only. The source code of the Debuggix engine is proprietary.
+## ⚡ Powered By
 
 <p align="center">
-  <b>🔒 Secure your code today →</b>
-  <a href="https://debuggix.onrender.com">debuggix.onrender.com</a>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render">
+  <img src="https://img.shields.io/badge/OpenRouter-AI-8b5cf6?style=flat-square" alt="OpenRouter">
+</p>
+
+---
+
+## 📊 The "Empire" Roadmap
+
+- [x] **Phase 1:** Multi-Scanner Orchestration & Web UI
+- [x] **Phase 2:** AI-Agentic Patch Generation (Beta)
+- [ ] **Phase 3:** VS Code "Instant-Fix" Extension (Coming Q2 2026)
+- [ ] **Phase 4:** Self-Hosted "Air-Gapped" Enterprise Node (Coming Q3 2026)
+
+---
+
+## 🤝 Join the Security Revolution
+
+Debuggix is a **Sovereign Product**. We aren't backed by VCs who want to sell your data. We are backed by developers who want a safer web.
+
+- ⚡ **Star this repo** to join the community.
+- 🐛 **Found a bug?** [Report it here](https://debuggix.onrender.com/contact).
+- 📧 **Enterprise Inquiries:** [licensing@debuggix.com](mailto:licensing@debuggix.com)
+
+---
+
+## 📄 License & Terms
+
+Debuggix is proprietary software. This repository serves as the public documentation and community hub. AI-generated fixes are suggestions—**always review code before merging.**
+
+<p align="center">
+  <b>The best time to secure your code was yesterday. The second best time is now.</b><br>
+  <a href="https://debuggix.onrender.com">Try Debuggix Free</a>
 </p>
