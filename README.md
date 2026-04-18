@@ -9,10 +9,10 @@
 <p align="center">
   <b>Traditional scanners find problems. Debuggix deletes them.</b><br>
   The world's first agentic security engine that writes the PR for you.
-</p>
+</p
 
 <p align="center">
-  <a href="https://debuggix.onrender.com"><strong>🚀 CLAIM YOUR FREE BETA ACCESS →</strong></a>
+  <a href="https://debuggix.space"><strong>🚀 CLAIM YOUR FREE BETA ACCESS →</strong></a>
 </p>
 
 ---
@@ -58,7 +58,7 @@ We didn't reinvent the wheel; we built a nuclear reactor around it. Debuggix orc
 | **Pro** | **$29/mo** | 100 Private Scans + **Unlimited AI Fixes**. |
 | **Pro+** | **$50/mo** | 500 Scans + **AI Copilot** + Team Access. |
 
-**[Lock in Beta Pricing Forever →](https://debuggix.onrender.com/billing)**
+**[Lock in Beta Pricing Forever →](https://debuggix.space/billing)**
 
 ---
 
@@ -88,7 +88,7 @@ We didn't reinvent the wheel; we built a nuclear reactor around it. Debuggix orc
 Debuggix is a **Sovereign Product**. We aren't backed by VCs who want to sell your data. We are backed by developers who want a safer web.
 
 - ⚡ **Star this repo** to join the community.
-- 🐛 **Found a bug?** [Report it here](https://debuggix.onrender.com/contact).
+- 🐛 **Found a bug?** [Report it here](https://debuggix.space/contact).
 - 📧 **Enterprise Inquiries:** [licensing@debuggix.com](mailto:licensing@debuggix.com)
 
 ---
@@ -99,5 +99,5 @@ Debuggix is proprietary software. This repository serves as the public documenta
 
 <p align="center">
   <b>The best time to secure your code was yesterday. The second best time is now.</b><br>
-  <a href="https://debuggix.onrender.com">Try Debuggix Free</a>
+  <a href="https://debuggix.space">Try Debuggix Free</a>
 </p>
