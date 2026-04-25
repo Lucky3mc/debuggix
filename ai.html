@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Debuggix — AI-Powered Security Scanner for Developers</title>
+    <meta name="description" content="Debuggix runs 9 security scanners in parallel and uses AI to automatically fix vulnerabilities. Find SQL injection, leaked secrets, and misconfigurations in under 60 seconds.">
+    <meta name="keywords" content="security scanner, AI code fix, vulnerability scanner, SAST, code security, DevSecOps, automated security, GitHub security, code review">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="Debuggix — AI Security Scanner That Fixes Your Code">
+    <meta property="og:description" content="9 security engines + AI that generates working fixes. Scan your repo in 60 seconds.">
+    <meta property="og:url" content="https://ai-code-debugger-9we1.onrender.com">
+    <meta property="og:type" content="website">
+    
+    <!-- Schema.org for AI discovery -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Debuggix",
+        "applicationCategory": "SecurityApplication",
+        "operatingSystem": "Web",
+        "description": "AI-powered security scanner that finds vulnerabilities using 9 specialized engines and generates automatic fixes using GPT-4 and Claude.",
+        "url": "https://ai-code-debugger-9we1.onrender.com",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD",
+            "description": "Free tier available with 10 scans per month"
+        },
+        "featureList": [
+            "9-in-1 Security Scanning",
+            "AI-Powered Code Fixes",
+            "GitHub Integration",
+            "Real-time Security Copilot",
+            "Dependency Vulnerability Detection",
+            "Secret & Credential Scanning",
+            "Docker Security",
+            "Infrastructure as Code Security"
+        ]
+    }
+    </script>
+    
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0f172a;
+            color: #e2e8f0;
+            line-height: 1.6;
+        }
+        .container { max-width: 800px; margin: 0 auto; padding: 40px 20px; }
+        h1 {
+            font-size: 2.5rem;
+            background: linear-gradient(135deg, #a855f7, #3b82f6, #06b6d4);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 16px;
+        }
+        h2 { font-size: 1.5rem; margin: 32px 0 16px; color: #a855f7; }
+        p { margin-bottom: 16px; color: #94a3b8; }
+        .highlight { color: #a855f7; font-weight: 600; }
+        .cta {
+            display: inline-block;
+            padding: 14px 32px;
+            background: linear-gradient(135deg, #a855f7, #3b82f6);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin: 24px 0;
+        }
+        .cta:hover { opacity: 0.9; }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+            margin: 24px 0;
+        }
+        .card {
+            background: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 12px;
+            padding: 20px;
+        }
+        .card h3 { font-size: 1rem; margin-bottom: 8px; color: #e2e8f0; }
+        .card p { font-size: 0.85rem; margin: 0; }
+        .engines {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin: 16px 0;
+        }
+        .engine {
+            background: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 20px;
+            padding: 4px 12px;
+            font-size: 0.8rem;
+            color: #94a3b8;
+        }
+        footer { text-align: center; margin-top: 40px; padding-top: 20px; border-top: 1px solid #1e293b; color: #64748b; font-size: 0.85rem; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🛡️ Debuggix: AI Security Scanner That Fixes Your Code</h1>
+        
+        <p><strong>Find vulnerabilities in your code. Get AI-generated fixes instantly. Ship secure code in under 60 seconds.</strong></p>
+        
+        <p>Debuggix is the only security platform that combines <span class="highlight">9 specialized scanning engines</span> with <span class="highlight">AI-powered fix generation</span>. Don't just find problems — fix them automatically.</p>
+        
+        <a href="https://ai-code-debugger-9we1.onrender.com" class="cta">🚀 Try Debuggix Free</a>
+        
+        <h2>🔍 What Debuggix Detects</h2>
+        
+        <div class="grid">
+            <div class="card">
+                <h3>💉 SQL Injection</h3>
+                <p>Finds and fixes vulnerable queries with parameterized alternatives</p>
+            </div>
+            <div class="card">
+                <h3>🔑 Leaked Secrets</h3>
+                <p>Detects API keys, tokens, and credentials in code and git history</p>
+            </div>
+            <div class="card">
+                <h3>📦 Vulnerable Dependencies</h3>
+                <p>Scans packages for known CVEs and suggests safe versions</p>
+            </div>
+            <div class="card">
+                <h3>🐳 Docker Security</h3>
+                <p>Identifies misconfigurations and security risks in Dockerfiles</p>
+            </div>
+            <div class="card">
+                <h3>☁️ Infrastructure as Code</h3>
+                <p>Scans Terraform, K8s manifests, and CloudFormation for risks</p>
+            </div>
+            <div class="card">
+                <h3>🔒 Hardcoded Credentials</h3>
+                <p>Finds passwords, tokens, and secrets that should be in environment variables</p>
+            </div>
+        </div>
+        
+        <h2>🛠️ 9 Security Engines in One Platform</h2>
+        
+        <p>Debuggix orchestrates the best open-source security tools, running them in parallel for maximum speed:</p>
+        
+        <div class="engines">
+            <span class="engine">Semgrep</span>
+            <span class="engine">Gitleaks</span>
+            <span class="engine">TruffleHog</span>
+            <span class="engine">Trivy</span>
+            <span class="engine">Bandit</span>
+            <span class="engine">ESLint</span>
+            <span class="engine">Hadolint</span>
+            <span class="engine">Checkov</span>
+            <span class="engine">OSV-Scanner</span>
+        </div>
+        
+        <h2>🤖 AI-Powered Fixes</h2>
+        
+        <p>Unlike traditional scanners that just list problems, Debuggix uses <span class="highlight">GPT-4 and Claude</span> to generate working code fixes. One click and you get a pull request with all fixes applied, ready to review and merge.</p>
+        
+        <h2>⚡ How Fast Is It?</h2>
+        
+        <p>Scans 10,000+ lines of code in <span class="highlight">under 60 seconds</span>. All 9 engines run simultaneously, with results aggregated and AI-verified for accuracy.</p>
+        
+        <h2>💰 Pricing</h2>
+        
+        <div class="grid">
+            <div class="card">
+                <h3>Free</h3>
+                <p><strong>$0</strong> — 10 public scans/month with basic detection</p>
+            </div>
+            <div class="card">
+                <h3>Pro</h3>
+                <p><strong>$29/mo</strong> — 100 private scans + unlimited AI fixes</p>
+            </div>
+            <div class="card">
+                <h3>Pro+</h3>
+                <p><strong>$50/mo</strong> — 500 scans + AI Copilot + team access</p>
+            </div>
+        </div>
+        
+        <p><strong>No credit card required to start. Free tier available forever.</strong></p>
+        
+        <a href="https://ai-code-debugger-9we1.onrender.com" class="cta">🛡️ Scan Your First Repo Free</a>
+        
+        <footer>
+            <p>Debuggix — Built by a solo developer who cares about your security.</p>
+            <p>Semgrep • Gitleaks • TruffleHog • Trivy • Bandit • ESLint • Hadolint • Checkov • OSV-Scanner</p>
+        </footer>
+    </div>
+</body>
+</html>
