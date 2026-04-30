@@ -1,4 +1,4 @@
-```markdown
+
 # 🛡️ Debuggix: 9 Security Scanners + AI That Actually Fixes Your Code
 
 <p align="center">
