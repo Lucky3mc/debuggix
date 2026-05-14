@@ -2,7 +2,9 @@
 # 🛡️ Debuggix — 9 Security Engines. 60 Seconds. AI That Actually Fixes Your Code.
 
 <p align="center">
-  <img src="https://debuggix.space/debuggix-logo.svg" alt="Debuggix Logo" width="400" />
+  <a href="https://debuggix.space">
+    <img src="https://debuggix.space/debuggix-favicon.png" alt="Debuggix Logo" width="320" />
+  </a>
 </p>
 
 <p align="center">
@@ -32,10 +34,10 @@
 
 ## 🚨 The State of App Security in 2026
 
-```
+
 44% of attacks on public-facing apps require ZERO authentication.
 67% of security fixes take over 4 hours manually.
-```
+
 
 **Recent breaches that could have been caught by multi-engine scanning:**
 
@@ -78,9 +80,9 @@
 - Categories: **Confirmed Issues** | **Might Be Intentional** | **False Positives**
 
 ### 2. AI Fix Generation (Pro)
-```
+
 Vulnerability found → AI analyzes surrounding code → generates patch → you review → merge
-```
+
 Each fix includes: diff view, plain-English explanation, confidence score, and impact assessment.
 
 ### 3. Security Copilot (Pro+)
@@ -91,16 +93,29 @@ Ask questions about your codebase in plain English:
 
 The Copilot reads your actual source files and references real scan findings.
 
----
+
 
 ## 🏆 Public Verification — Your Security Badge
 
-When your repo passes all 9 engines with zero critical/high issues, you get a **verified badge**: 
+When your repo passes all 9 engines with zero critical/high issues, you get a **verified badge**:
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Debuggix-A%2B%20Secure-brightgreen?style=for-the-badge&logo=shield&logoColor=white" alt="Debuggix A+ Secure Badge" />
+  <a href="https://debuggix.space/verified">
+    <img src="https://img.shields.io/badge/VERIFIED%20by%20Debuggix-9%20ENGINES-7928CA?style=for-the-badge&logo=shield&logoColor=white&labelColor=0D1117" alt="Verified by Debuggix - 9 Engines" />
+  </a>
 </p>
 
+**Add this to your README:**
+```markdown
 [![Verified by Debuggix](https://ai-debugger-backend-eah5.onrender.com/scan/v1/badge/YOUR_SCAN_ID)](https://debuggix.space/verified)
+```
+
+**Or add this to your landing page HTML:**
+```html
+<a href="https://debuggix.space/verified">
+  <img src="https://ai-debugger-backend-eah5.onrender.com/scan/v1/badge/YOUR_SCAN_ID" alt="Verified by Debuggix" />
+</a>
+```
 
 - ✅ Add it to your README, landing page, or app store listing
 - ✅ Changes color automatically when you re-scan (green = A+ clean, orange = warnings, red = critical)
@@ -111,6 +126,7 @@ When your repo passes all 9 engines with zero critical/high issues, you get a **
 
 ## 📊 Dashboard Features
 
+
 ✅ Color-coded severity borders (critical = red left border, high = orange, etc.)
 ✅ Full-text search across all findings
 ✅ Filter by severity, category, engine
@@ -120,6 +136,9 @@ When your repo passes all 9 engines with zero critical/high issues, you get a **
 ✅ Export full scan report as JSON
 ✅ Share scan with team members
 ✅ Comment on individual findings
+
+
+
 
 ## 💰 Pricing
 
@@ -174,9 +193,9 @@ When your repo passes all 9 engines with zero critical/high issues, you get a **
 
 ---
 
-## ⭐ Built Solo. No VC. No Data Selling.
+## ⭐ Built solo. No VC. No Data Selling.
 
-Debuggix is built by one developer who believes security should be fast, affordable, and accessible to everyone — not just enterprises with six-figure budgets.
+Debuggix is built by a developer who believes security should be fast, affordable, and accessible to everyone — not just enterprises with six-figure budgets.
 
 - 🐛 **Found a bug?** [Open an issue](https://github.com/Lucky3mc/debuggix/issues)
 - 📧 **Contact:** [luckydiety@gmail.com](mailto:luckydiety@gmail.com)
@@ -189,5 +208,3 @@ Debuggix is built by one developer who believes security should be fast, afforda
   <a href="https://debuggix.space"><strong>🚀 Scan Free Now →</strong></a>
 </p>
 ```
-
----
