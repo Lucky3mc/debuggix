@@ -1,5 +1,5 @@
 
-# 🛡️ Debuggix — 9 Security Engines. 60 Seconds. AI That Actually Fixes Your Code.
+# 🛡️ Debuggix — 9 Security Engines. 60 Seconds. Not AI only but Guided with 9 Trusted Security Tools.
 
 <p align="center">
   <a href="https://debuggix.space">
